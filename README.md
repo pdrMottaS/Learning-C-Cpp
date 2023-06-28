@@ -1,6 +1,18 @@
 # Hello, this is my C/C++ knowledge repository
 
-Table of contents
+### Running the code
+
+<p align="justify">First of all, you need a C/C++ compiler, in the examples I am using gcc.</p>
+
+```
+# this command will generate a .exe file
+gcc <name-of-file>.c -o <name-of-exe>
+
+# now run the exe
+.\<name-of-exe>.exe
+```
+
+### Table of contents
 
 <table>
   <tbody>

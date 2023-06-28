@@ -1,5 +1,7 @@
 # Hello, this is my C/C++ knowledge repository
 
+<p align="justify">This repository have some short exercisess that I use to learn some concepts and technologies</p>
+
 ### Running the code
 
 <p align="justify">First of all, you need a C/C++ compiler, in the examples I am using gcc.</p>

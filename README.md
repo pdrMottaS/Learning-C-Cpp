@@ -38,5 +38,13 @@ gcc <name-of-file>.c -o <name-of-exe>
     <tr>
       <td><a href="pointers/alocarMemoria.c">Alocar memória</a> </td>
     </tr>
+    <tr>
+      <td>Struct</td>
+      <td><a href="struct/struct.c">Struct</a></td>
+    </tr>
+    <tr>
+      <td>LinkedList</td>
+      <td><a href="linkedList/linkedList.c">Lista Encadeada</td>
+    </tr>
   </tbody>
 </table>

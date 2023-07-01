@@ -44,7 +44,7 @@ gcc <name-of-file>.c -o <name-of-exe>
     </tr>
     <tr>
       <td>LinkedList</td>
-      <td><a href="linkedList/linkedList.c">Lista Encadeada</td>
+      <td><a href="linkedList/linkedList.c">Lista Encadeada sem Cabeça</td>
     </tr>
   </tbody>
 </table>
